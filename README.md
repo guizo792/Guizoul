@@ -5,4 +5,4 @@
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: Gmail: guizoulabdellah792@gmail.com
 - 😄 Pronouns: He/His
-<img src="https://github-readme-stats.vercel.app/api?username=Guizoul&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=111">
+<img src="https://github-readme-stats.vercel.app/api?username=Guizoul&&show_icons=true&title_color=fff&icon_color=fff&text_color=D3D3D3&bg_color=383838">
