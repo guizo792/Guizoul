@@ -1,7 +1,7 @@
-### Hi I'm Guizoul Abdellah 👋
+### Hi I'm Abdellah GUIZOUL 👋
 
-- 🔭 I’m currently working on school management app
-- 🌱 I’m currently learning nodeJs
+- 👨‍💻 I’m currently working on school management app
+- 🔙🔚 I’m currently learning nodeJs
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: guizoulabdellah792@gmail.com
 - 
